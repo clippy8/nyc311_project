@@ -1,0 +1,35 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "NYC 311 Seasonal Complaint Analysis – Manhattan (2023–2025)",
+  "description": "This project analyzes seasonal complaint patterns in Manhattan (HEAT/HOT WATER and NOISE) using 311 service request data. Implemented with Python, pandas, and matplotlib.",
+  "version": "1.0.0",
+  "datePublished": "2025-07-20",
+  "license": "https://opensource.org/licenses/MIT",
+  "codeRepository": "https://github.com/DEINUSERNAME/nyc311_project",
+  "issueTracker": "https://github.com/DEINUSERNAME/nyc311_project/issues",
+  "programmingLanguage": "Python",
+  "keywords": [
+    "open data",
+    "urban analytics",
+    "311 complaints",
+    "seasonality",
+    "FAIR data",
+    "pandas",
+    "matplotlib"
+  ],
+  "author": {
+    "@type": "Person",
+    "givenName": "Robin",
+    "familyName": "Zaumseil",
+    "identifier": "https://orcid.org/0009-0005-4148-6638"
+  },
+  "citation": "https://doi.org/10.5281/zenodo.xxxxxxx",
+  "isAccessibleForFree": true,
+  "developmentStatus": "active",
+  "softwareRequirements": [
+    "pandas",
+    "matplotlib"
+  ],
+  "runtimePlatform": "Python 3.11"
+}
