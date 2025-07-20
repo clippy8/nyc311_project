@@ -5,7 +5,7 @@
 **Licenses**:  
 - Code: [MIT License](LICENSE)  
 - Data & content: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-**DOI**: *To be assigned via Zenodo*  
+**DOI**: [10.5281/zenodo.16232949](https://doi.org/10.5281/zenodo.16232949)
 **Data source**: [NYC Open Data Portal – 311 Service Requests](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
 
 ---

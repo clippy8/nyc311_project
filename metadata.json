@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "datePublished": "2025-07-20",
   "license": "https://opensource.org/licenses/MIT",
-  "codeRepository": "https://github.com/DEINUSERNAME/nyc311_project",
+  "codeRepository": "https://github.com/clippy8/nyc311_project",
   "programmingLanguage": "Python",
   "keywords": [
     "open data",
@@ -22,5 +22,5 @@
     "name": "Robin Zaumseil",
     "identifier": "https://orcid.org/0009-0005-4148-6638"
   },
-  "citation": "Zaumseil, Robin (2025). NYC 311 Seasonal Complaint Analysis – Manhattan (2023–2025). Version 1.0.0. DOI:10.5281/zenodo.xxxxxxx"
+  "citation": "Zaumseil, Robin (2025). NYC 311 Seasonal Complaint Analysis – Manhattan (2023–2025). Version 1.0.0. DOI:10.5281/zenodo.16232949",
 }

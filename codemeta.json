@@ -6,8 +6,8 @@
   "version": "1.0.0",
   "datePublished": "2025-07-20",
   "license": "https://opensource.org/licenses/MIT",
-  "codeRepository": "https://github.com/DEINUSERNAME/nyc311_project",
-  "issueTracker": "https://github.com/DEINUSERNAME/nyc311_project/issues",
+  "codeRepository": "https://github.com/clippy8/nyc311_project",
+  "issueTracker": "https://github.com/clippy8/nyc311_project/issues",
   "programmingLanguage": "Python",
   "keywords": [
     "open data",
@@ -24,7 +24,7 @@
     "familyName": "Zaumseil",
     "identifier": "https://orcid.org/0009-0005-4148-6638"
   },
-  "citation": "https://doi.org/10.5281/zenodo.xxxxxxx",
+  "citation": "https://doi.org/10.5281/zenodo.16232949",
   "isAccessibleForFree": true,
   "developmentStatus": "active",
   "softwareRequirements": [
