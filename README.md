@@ -59,6 +59,9 @@ The goal is to reveal trends over time and visualize them effectively.
   - Time format: `YYYY-MM-DD hh:mm:ss`
 - `PNG`: line chart of monthly complaint volumes
 - `PY`/`IPYNB`: executable code for analysis reproducibility
+- The file `311_Manhattan.csv` is available via Zenodo:  
+> [https://doi.org/10.5281/zenodo.16232949](https://doi.org/10.5281/zenodo.16232949)
+
 
 ---
 
